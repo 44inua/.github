@@ -4,7 +4,7 @@
 ---
 
 ### [OPERATIONAL_STATUS]
-- **Entity:** 44inua
+- **Entity:** 44_
 - **Uptime:** 24/7/365
 - **Location:** Kyiv Node [UA]
 - **Core_Logic:** Raw JS / Node.js / Cloudflare Workers
