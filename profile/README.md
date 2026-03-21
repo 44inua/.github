@@ -27,11 +27,5 @@
 
 ---
 
-### [SYSTEM_CONNECT]
-- **Terminal:** [44.in.ua](https://44.in.ua)
-- **Direct_Line:** `+38 073 44 999 44`
-- **LinkedIn:** [Connect_to_Bureau_44](https://linkedin.com)
-
----
 
 `[LOG_END] :: No marketing noise. Pure technical execution.`
